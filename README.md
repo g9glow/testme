@@ -13,7 +13,7 @@ create a new repository:
 
 add files to repository:
 - on the top there are 3 buttons:
-+ Create new file (to create files with the github editor)
++ Create new file (to online create files with the github editor)
 + Upload files (a page opens where you can upload files and folders from your local pc)
 + Find files
 

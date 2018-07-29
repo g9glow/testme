@@ -1,7 +1,7 @@
 # testme
 this is a test how to put files on github
 
-- 1st login:
+ 1st login:
 browse to: github.com
 click: Sign up
  choose username, email and password

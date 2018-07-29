@@ -2,13 +2,9 @@
 this is a test how to put files on github
 
 1st login:
-browse to: github.com - click: Sign up - choose username, email and password
- open email and click Verify email address
+browse to: github.com - click: Sign up - choose username, email and password open email and click Verify email address
 
-- next logins:
- browse to: github.com
- click: Sign in 
- enter login data
+- next logins: browse to: github.com click: Sign in  enter login data
 
 - create a new repository:
  on the left side click on: New repository
